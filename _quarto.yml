@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: "docs"
 
 website:
   title: "Hi! I am Timothy Tse :D"
