@@ -2,4 +2,11 @@
 title: "About"
 ---
 
-About this site
+About this Timothy Tse:
+
+I am a Machine Learning Engineer from Hong Kong!
+I have been involved in commercial R&D for Cantonese Chat bot since 2020.
+My current interest is exploring ideas of Diffusion/Flow-matching models beyond simple photo generation
+
+
+
